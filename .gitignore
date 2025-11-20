@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+dist/
+build/
+*.spec
+
+# Database
+*.db
+library.db
+
+# VS Code
+.vscode/
+
+# Virtual Environment
+venv/
+env/
